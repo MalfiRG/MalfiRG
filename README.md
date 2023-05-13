@@ -1,5 +1,5 @@
 ### Hi there, I am Piotr👋
-I am happy to welcome you on my Github profile!
+I am happy to see you on my Github profile!
 
 ![MySQL](https://img.shields.io/badge/mysql-%233ea1cf.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
