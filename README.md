@@ -3,6 +3,8 @@ It's great to have you visit my GitHub profile! As I aspire to become an ISTQB-c
 
 Being part of the dynamic IT sector, I actively follow the latest news in AI, software testing, and software development. 
 
+To learn more about my work, [click here.](https://github.com/MalfiRG/Portfolio)
+
 ##### Outside work, I enjoy:
 - playing the guitar :guitar: 
 - travelling :airplane:
