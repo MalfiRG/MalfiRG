@@ -7,7 +7,7 @@ Being part of the dynamic IT sector, I actively follow the latest news in AI, so
 - playing the guitar :guitar: 
 - travelling :airplane:
 - making landscape and portrait photos :camera:
-- and caring for my beloved rabbit, Jupik :rabbit2:
+- caring for my beloved rabbit, Jupik :rabbit2:
 
 ## Tools I use
 ##### Test management
