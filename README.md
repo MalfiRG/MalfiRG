@@ -21,10 +21,10 @@ To read more about my work, [click here.](https://github.com/MalfiRG/Portfolio)
 
 ##### Programming 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=ff0066)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-0A1A2F?style=flat&logo=Apache%20Maven&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-0A1A2F?style=flat&logo=Apache%20Maven&logoColor=C71A36)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-0A1A2F.svg?style=flat&logo=android-studio&logoColor=3DDC84)
 ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+![Git](https://img.shields.io/badge/-GIT-0A1A2F?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 
 ##### Automated testing
