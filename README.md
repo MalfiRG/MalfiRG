@@ -5,7 +5,7 @@ Being part of the dynamic IT sector, I actively follow the latest news in AI, so
 
 To read more about my work, [click here.](https://github.com/MalfiRG/Portfolio)
 
-##### Outside work, I enjoy:
+##### In my leisure time, I enjoy: the following:
 - Playing the guitar :guitar: 
 - Travelling :airplane:
 - Making landscape and portrait photos :camera:
