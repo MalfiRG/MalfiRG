@@ -46,6 +46,7 @@ To read more about my work, [click here.](https://github.com/MalfiRG/Portfolio)
 ![VMware](https://img.shields.io/badge/-VMWare-0A1A2F?style=flat&logo=VMWare&logoColor=294fe6)
 ![Docker](https://img.shields.io/badge/Docker-0A1A2F.svg?style=flat&logo=docker&logoColor=230db7ed)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-0A1A2F.svg?style=flat&logo=windows-terminal&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0A1A2F?style=flat&logo=Wireshark&logoColor=1679A7)
 
 ## Connect with me 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/piotrtarach)
