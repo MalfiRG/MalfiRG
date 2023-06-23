@@ -1,5 +1,5 @@
 ### Hi there, I am Piotr👋
-It's great to have you visit my GitHub profile! As an aspiring ISTQB-certified Software Tester, I want to highlight my experience with various testing tools and applications, completed coursework, certifications, and other relevant achievements. 
+It's great to have you visit my GitHub profile! As an ISTQB-certified QA Engineer, I want to highlight my experience with various testing tools and applications, completed coursework, certifications, and other relevant achievements. 
 
 Being part of the dynamic IT sector, I actively follow the latest news in AI, software testing, and software development. 
 
