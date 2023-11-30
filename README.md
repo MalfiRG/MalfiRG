@@ -1,4 +1,15 @@
-### Hi there, I am Piotr👋
+# Hi there, I am Piotr👋
+
+<div align="left">
+  <a href="https://app.daily.dev/malfirg">
+  <img 
+    src="https://api.daily.dev/devcards/5684412daa6e49a2ab0adf2599c662be.png?r=pqj" 
+    width="256" 
+    alt="Malfirg's Dev Card"
+    align="right"
+    />
+</a>
+</div>
 It's great to have you visit my GitHub profile! As an ISTQB-certified QA Engineer, I want to highlight my experience with various testing tools and applications, completed coursework, certifications, and other relevant achievements. 
 
 Being part of the dynamic IT sector, I actively follow the latest news in AI, software testing, and software development. 
